@@ -1,0 +1,16 @@
+{
+    "dev": {
+        "app_function": "main.app",
+        "aws_region": "ap-northeast-1",
+        "profile_name": "default",
+        "project_name": "local-gourmet-skill",
+        "runtime": "python3.6",
+        "s3_bucket": "zappa-xxxxxxxx",
+        "log_level": "INFO",
+        "environment_variables": {
+            "TZ": "Asia/Tokyo",
+            "CLOVA_APPLICATION_ID": "com.hoge.foo.barskill",
+            "TABLE_GOURMET_INFO": "GourmetInfo"
+        }
+    }
+}
