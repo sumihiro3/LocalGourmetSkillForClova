@@ -91,7 +91,7 @@ $ pip install virtualenv
 
 ## AWS CLI の準備
 
-Zappa でAWSを操作するためにAAWS CLI が必要となります。
+Zappa でAWSを操作するためにAWS CLI が必要となります。
 下記のサイトを参考にして、AWS CLI のインストールと設定をしてください。
 
 ### Mac OS X の場合
