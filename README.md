@@ -22,7 +22,7 @@ Clova Extension Kit SDK for Python を使ったスキルのサンプルです。
 * [前編：30分くらいでClova Extension Kit SDK for Python を使ったClova スキルを作る！（前編：スキル設定編）](https://qiita.com/sumihiro3/items/3ca0a2f849a116b509ff)
 * [後編：30分くらいでClova Extension Kit SDK for Python を使ったClova スキルを作る！（後編：実装編）](https://qiita.com/sumihiro3/private/9e24170cad4ad384f453)
 
-## 開発環境・実行環境について
+## 開発環境・実行環境について
 
 このスキルを開発・実行する上で必要な環境です。
 
