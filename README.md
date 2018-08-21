@@ -66,7 +66,7 @@ https://www.python.org/downloads/release/python-365/
     * PATH の設定は下記のサイトを参考にしてください
         * https://www.pythonweb.jp/tutorial/install/index3.html
 * 注意
-    * Anaconda を利用されている場合、解説記事と動作が異なる場合があります。
+    * Anaconda を利用されている場合、解説記事と動作が異なる場合があります。
     * 自己解決出来ない場合は上記方法でインストールしてください
 
 ### エディターの準備
@@ -92,7 +92,7 @@ $ pip install virtualenv
 ## AWS CLI の準備
 
 Zappa でAWSを操作するためにAAWS CLI が必要となります。
-下記のサイトを参考にして、AWS CLI のインストールと設定をしてください。
+下記のサイトを参考にして、AWS CLI のインストールと設定をしてください。
 
 ### Mac OS X の場合
 
@@ -106,9 +106,9 @@ Zappa でAWSを操作するためにAAWS CLI が必要となります。
 
 [AWS CLI の設定](https://docs.aws.amazon.com/ja_jp/cli/latest/userguide/cli-chap-getting-started.html#cli-quick-configuration)
 
-## Clova Developer Center とLINE Developers の設定
+## Clova Developer Center とLINE Developers の設定
 
-下記のサイトを参考にして、Clova Developer Center とLINE Developers への登録とチャネルの設定を済ませておいてください。
+下記のサイトを参考にして、Clova Developer Center とLINE Developers への登録とチャネルの設定を済ませておいてください。
 
 * [Clova Developer Centerの使い方 - 誰でも簡単にできる！ LINE Clovaスキルの作り方](https://codezine.jp/article/detail/10927?p=2)
 * [本日リリース！LINE Clovaのスキル開発の始め方〜申請編〜](https://dotstud.io/blog/line-clova-skill-tutorial/)
