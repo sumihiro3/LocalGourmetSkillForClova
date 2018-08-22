@@ -104,7 +104,7 @@ Zappa でAWSを操作するためにAWS CLI が必要となります。
 
 ### AWS CLI の設定
 
-[AWS CLI の設定](https://docs.aws.amazon.com/ja_jp/cli/latest/userguide/cli-chap-getting-started.html#cli-quick-configuration)
+[AWS-CLIの初期設定のメモ](https://qiita.com/reflet/items/e4225435fe692663b705)
 
 ## Clova Developer Center とLINE Developers の設定
 
