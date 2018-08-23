@@ -108,7 +108,7 @@ Zappa でAWSを操作するためにAWS CLI が必要となります。
 
 ## Clova Developer Center とLINE Developers の設定
 
-下記のサイトを参考にして、Clova Developer Center とLINE Developers への登録とチャネルの設定を済ませておいてください。
+下記のサイトを参考にして、Clova Developer Center とLINE Developers への登録とプロバイダーの設定を済ませておいてください。
 
 * [Clova Developer Centerの使い方 - 誰でも簡単にできる！ LINE Clovaスキルの作り方](https://codezine.jp/article/detail/10927?p=2)
 * [本日リリース！LINE Clovaのスキル開発の始め方〜申請編〜](https://dotstud.io/blog/line-clova-skill-tutorial/)
