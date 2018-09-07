@@ -71,12 +71,12 @@ https://www.python.org/downloads/release/python-365/
 
 ### エディターの準備
 基本的にお好きなエディターをお使いください。
-私は[Visual Studio Code](https://github.com/pynyumon/pynyumon/blob/master/0_preparation.md) を を利用しています。
+筆者は[Visual Studio Code](https://code.visualstudio.com/) を利用しています。
 
 ### virtualenv のインストール
 
 ```shell
-$ pip install virtualenv
+$ pip install --upgrade virtualenv
 ```
 
 ## AWS でのアカウント登録
