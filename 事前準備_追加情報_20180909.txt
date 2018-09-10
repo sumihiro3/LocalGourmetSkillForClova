@@ -1,0 +1,13 @@
+事前準備のうち、下記の点について情報を追加いたしますので、参考にしてください。
+
+- python のインストール（Macをお使いの場合）
+  Macの場合、homebrew を利用してインストールしてもOKです
+    + 参考記事：MacにPython3をインストールし環境構築【決定版】 
+        * https://qiita.com/7110/items/1aa5968022373e99ae28
+
+- AWS CLI の設定
+  アクセスキーとシークレットアクセスキーの設定方法
+    + 参考記事：最短でAWS CLIをインストールして設定する方法
+    	* https://tomokazu-kozuma.com/procedure-for-installing-aws-cli/
+		* * 「AWS CLIの初期設定」にアクセスキーとシークレットアクセスキーの設定方法の記載があります
+
